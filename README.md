@@ -78,3 +78,13 @@ Visitor → Push Button → ESP32-CAM → Image Capture → WiFi → Telegram �
 - OTP-based visitor verification
 
 ---
+## Key Learning Outcomes
+
+- Hands-on experience with ESP32-CAM
+- Understanding of IoT communication using WiFi
+- Integration of hardware and software systems
+- Working with APIs (Telegram Bot API)
+- Real-time system design and debugging
+- Embedded system programming
+
+---
