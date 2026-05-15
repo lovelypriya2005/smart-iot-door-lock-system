@@ -54,6 +54,11 @@ This project enhances security by combining IoT communication, image capture, an
 7. The ESP32-CAM controls the electronic lock accordingly.
 
 ---
+## System Flow
+
+Visitor → Push Button → ESP32-CAM → Image Capture → WiFi → Telegram → User Decision → Lock/Unlock Signal → Electronic Lock
+
+---
 ## Applications
 
 - Smart home security systems
